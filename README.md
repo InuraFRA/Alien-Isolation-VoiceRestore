@@ -83,3 +83,15 @@ Pour les instructions complètes, les limites et la désinstallation, consultez 
 ---
 
 **Official downloads / Téléchargements officiels :** [GitHub Releases](https://github.com/InuraFRA/Alien-Isolation-VoiceRestore/releases)
+
+## Support the creator / Soutenir le créateur 💜
+
+If you enjoy my independent creations, you can leave a **completely optional tip** on [Ko-fi — Inura](https://ko-fi.com/inura).
+
+All public releases remain free. Donations do not provide exclusive content, early access or development commitments.
+
+---
+
+Si vous appréciez mes créations indépendantes, vous pouvez me soutenir par un **don entièrement facultatif** sur [Ko-fi — Inura](https://ko-fi.com/inura).
+
+Mes créations publiques restent gratuites, sans contenu exclusif ni contrepartie obligatoire.
