@@ -56,7 +56,11 @@ The ZIP contains `SHA256SUMS.txt`, `LICENSE_AIVR.txt`, `LOADER_NOTICE.txt`, `ULT
 
 **AIVR is free but not open source.** Redistribution permissions for original AIVR components are described in `LICENSE_AIVR.txt`. The included **Ultimate ASI Loader by ThirteenAG** is separately licensed under **MIT**.
 
-Created and gameplay-tested by **InuraFRA**, with substantial development assistance from **OpenAI Codex and ChatGPT**. This is an unofficial fan mod, not endorsed by SEGA, Creative Assembly or the *Alien* rights holders.
+Created and gameplay-tested by **Inura**, with substantial development assistance from **OpenAI Codex and ChatGPT**. This is an unofficial fan mod, not endorsed by SEGA, Creative Assembly or the *Alien* rights holders.
+
+### Special Thanks
+
+**To my brother, Eridwyn** — Even beyond this project, you helped light my way when I was lost in the dark. Thank you for being there when I needed it most.
 
 ---
 
@@ -79,6 +83,10 @@ Le mod démarre automatiquement avec le jeu grâce au chargeur ASI fourni, sans 
 **Compatibilité confirmée en jeu sur les versions précises Steam et Epic testées le 28 octobre 2026.** Les autres versions et associations avec d'autres mods ne sont pas garanties.
 
 Pour les instructions complètes, les limites et la désinstallation, consultez **`README_FR.md` dans l'archive**. Le code source AIVR reste privé ; ses droits de redistribution figurent dans `LICENSE_AIVR.txt`. Le chargeur tiers conserve sa licence MIT.
+
+### Remerciements
+
+**À mon frère, Eridwyn** — Même au-delà de ce projet, tu as éclairé mon chemin lorsque j'étais perdu dans l'obscurité. Merci d'avoir été là quand j'en avais le plus besoin.
 
 ---
 
